@@ -1,0 +1,14 @@
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathAndComparisonOperators\MathAndComparisonOperators\bin\Debug\netcoreapp3.1\MathAndComparisonOperators.exe
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathAndComparisonOperators\MathAndComparisonOperators\bin\Debug\netcoreapp3.1\MathAndComparisonOperators.deps.json
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathAndComparisonOperators\MathAndComparisonOperators\bin\Debug\netcoreapp3.1\MathAndComparisonOperators.runtimeconfig.json
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathAndComparisonOperators\MathAndComparisonOperators\bin\Debug\netcoreapp3.1\MathAndComparisonOperators.runtimeconfig.dev.json
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathAndComparisonOperators\MathAndComparisonOperators\bin\Debug\netcoreapp3.1\MathAndComparisonOperators.dll
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathAndComparisonOperators\MathAndComparisonOperators\bin\Debug\netcoreapp3.1\MathAndComparisonOperators.pdb
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathAndComparisonOperators\MathAndComparisonOperators\obj\Debug\netcoreapp3.1\MathAndComparisonOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathAndComparisonOperators\MathAndComparisonOperators\obj\Debug\netcoreapp3.1\MathAndComparisonOperators.AssemblyInfoInputs.cache
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathAndComparisonOperators\MathAndComparisonOperators\obj\Debug\netcoreapp3.1\MathAndComparisonOperators.AssemblyInfo.cs
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathAndComparisonOperators\MathAndComparisonOperators\obj\Debug\netcoreapp3.1\MathAndComparisonOperators.csproj.CoreCompileInputs.cache
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathAndComparisonOperators\MathAndComparisonOperators\obj\Debug\netcoreapp3.1\MathAndComparisonOperators.dll
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathAndComparisonOperators\MathAndComparisonOperators\obj\Debug\netcoreapp3.1\MathAndComparisonOperators.pdb
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathAndComparisonOperators\MathAndComparisonOperators\obj\Debug\netcoreapp3.1\MathAndComparisonOperators.genruntimeconfig.cache
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathAndComparisonOperators\MathAndComparisonOperators\obj\Debug\netcoreapp3.1\MathAndComparisonOperators.csproj.AssemblyReference.cache

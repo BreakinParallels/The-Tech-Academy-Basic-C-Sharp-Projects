@@ -1,0 +1,14 @@
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApplicationAssignment\ConsoleApplicationAssignment\bin\Debug\netcoreapp3.1\ConsoleApplicationAssignment.exe
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApplicationAssignment\ConsoleApplicationAssignment\bin\Debug\netcoreapp3.1\ConsoleApplicationAssignment.deps.json
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApplicationAssignment\ConsoleApplicationAssignment\bin\Debug\netcoreapp3.1\ConsoleApplicationAssignment.runtimeconfig.json
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApplicationAssignment\ConsoleApplicationAssignment\bin\Debug\netcoreapp3.1\ConsoleApplicationAssignment.runtimeconfig.dev.json
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApplicationAssignment\ConsoleApplicationAssignment\bin\Debug\netcoreapp3.1\ConsoleApplicationAssignment.dll
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApplicationAssignment\ConsoleApplicationAssignment\bin\Debug\netcoreapp3.1\ConsoleApplicationAssignment.pdb
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApplicationAssignment\ConsoleApplicationAssignment\obj\Debug\netcoreapp3.1\ConsoleApplicationAssignment.csproj.AssemblyReference.cache
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApplicationAssignment\ConsoleApplicationAssignment\obj\Debug\netcoreapp3.1\ConsoleApplicationAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApplicationAssignment\ConsoleApplicationAssignment\obj\Debug\netcoreapp3.1\ConsoleApplicationAssignment.AssemblyInfoInputs.cache
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApplicationAssignment\ConsoleApplicationAssignment\obj\Debug\netcoreapp3.1\ConsoleApplicationAssignment.AssemblyInfo.cs
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApplicationAssignment\ConsoleApplicationAssignment\obj\Debug\netcoreapp3.1\ConsoleApplicationAssignment.csproj.CoreCompileInputs.cache
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApplicationAssignment\ConsoleApplicationAssignment\obj\Debug\netcoreapp3.1\ConsoleApplicationAssignment.dll
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApplicationAssignment\ConsoleApplicationAssignment\obj\Debug\netcoreapp3.1\ConsoleApplicationAssignment.pdb
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApplicationAssignment\ConsoleApplicationAssignment\obj\Debug\netcoreapp3.1\ConsoleApplicationAssignment.genruntimeconfig.cache
