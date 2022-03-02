@@ -17,7 +17,7 @@ namespace Boolean_Logic_Submission_Assignment
 
             //asks question to user
             Console.WriteLine("Have you ever had a DUI? true or false?");
-            
+            //states variable and what type
             bool hasDUI = Convert.ToBoolean(Console.ReadLine());
 
             //asks question to user           
