@@ -1,0 +1,14 @@
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingTutorialExamples\BranchingTutorialExamples\bin\Debug\netcoreapp3.1\BranchingTutorialExamples.exe
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingTutorialExamples\BranchingTutorialExamples\bin\Debug\netcoreapp3.1\BranchingTutorialExamples.deps.json
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingTutorialExamples\BranchingTutorialExamples\bin\Debug\netcoreapp3.1\BranchingTutorialExamples.runtimeconfig.json
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingTutorialExamples\BranchingTutorialExamples\bin\Debug\netcoreapp3.1\BranchingTutorialExamples.runtimeconfig.dev.json
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingTutorialExamples\BranchingTutorialExamples\bin\Debug\netcoreapp3.1\BranchingTutorialExamples.dll
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingTutorialExamples\BranchingTutorialExamples\bin\Debug\netcoreapp3.1\BranchingTutorialExamples.pdb
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingTutorialExamples\BranchingTutorialExamples\obj\Debug\netcoreapp3.1\BranchingTutorialExamples.csproj.AssemblyReference.cache
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingTutorialExamples\BranchingTutorialExamples\obj\Debug\netcoreapp3.1\BranchingTutorialExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingTutorialExamples\BranchingTutorialExamples\obj\Debug\netcoreapp3.1\BranchingTutorialExamples.AssemblyInfoInputs.cache
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingTutorialExamples\BranchingTutorialExamples\obj\Debug\netcoreapp3.1\BranchingTutorialExamples.AssemblyInfo.cs
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingTutorialExamples\BranchingTutorialExamples\obj\Debug\netcoreapp3.1\BranchingTutorialExamples.csproj.CoreCompileInputs.cache
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingTutorialExamples\BranchingTutorialExamples\obj\Debug\netcoreapp3.1\BranchingTutorialExamples.dll
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingTutorialExamples\BranchingTutorialExamples\obj\Debug\netcoreapp3.1\BranchingTutorialExamples.pdb
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingTutorialExamples\BranchingTutorialExamples\obj\Debug\netcoreapp3.1\BranchingTutorialExamples.genruntimeconfig.cache
