@@ -1,0 +1,14 @@
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StringFunctionExamples\StringFunctionExamples\bin\Debug\netcoreapp3.1\StringFunctionExamples.exe
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StringFunctionExamples\StringFunctionExamples\bin\Debug\netcoreapp3.1\StringFunctionExamples.deps.json
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StringFunctionExamples\StringFunctionExamples\bin\Debug\netcoreapp3.1\StringFunctionExamples.runtimeconfig.json
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StringFunctionExamples\StringFunctionExamples\bin\Debug\netcoreapp3.1\StringFunctionExamples.runtimeconfig.dev.json
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StringFunctionExamples\StringFunctionExamples\bin\Debug\netcoreapp3.1\StringFunctionExamples.dll
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StringFunctionExamples\StringFunctionExamples\bin\Debug\netcoreapp3.1\StringFunctionExamples.pdb
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StringFunctionExamples\StringFunctionExamples\obj\Debug\netcoreapp3.1\StringFunctionExamples.csproj.AssemblyReference.cache
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StringFunctionExamples\StringFunctionExamples\obj\Debug\netcoreapp3.1\StringFunctionExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StringFunctionExamples\StringFunctionExamples\obj\Debug\netcoreapp3.1\StringFunctionExamples.AssemblyInfoInputs.cache
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StringFunctionExamples\StringFunctionExamples\obj\Debug\netcoreapp3.1\StringFunctionExamples.AssemblyInfo.cs
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StringFunctionExamples\StringFunctionExamples\obj\Debug\netcoreapp3.1\StringFunctionExamples.csproj.CoreCompileInputs.cache
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StringFunctionExamples\StringFunctionExamples\obj\Debug\netcoreapp3.1\StringFunctionExamples.dll
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StringFunctionExamples\StringFunctionExamples\obj\Debug\netcoreapp3.1\StringFunctionExamples.pdb
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StringFunctionExamples\StringFunctionExamples\obj\Debug\netcoreapp3.1\StringFunctionExamples.genruntimeconfig.cache
