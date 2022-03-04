@@ -1,0 +1,14 @@
+C:\Users\shodg\source\repos\ArraysAndListsTutorial\ArraysAndListsTutorial\bin\Debug\netcoreapp3.1\ArraysAndListsTutorial.exe
+C:\Users\shodg\source\repos\ArraysAndListsTutorial\ArraysAndListsTutorial\bin\Debug\netcoreapp3.1\ArraysAndListsTutorial.deps.json
+C:\Users\shodg\source\repos\ArraysAndListsTutorial\ArraysAndListsTutorial\bin\Debug\netcoreapp3.1\ArraysAndListsTutorial.runtimeconfig.json
+C:\Users\shodg\source\repos\ArraysAndListsTutorial\ArraysAndListsTutorial\bin\Debug\netcoreapp3.1\ArraysAndListsTutorial.runtimeconfig.dev.json
+C:\Users\shodg\source\repos\ArraysAndListsTutorial\ArraysAndListsTutorial\bin\Debug\netcoreapp3.1\ArraysAndListsTutorial.dll
+C:\Users\shodg\source\repos\ArraysAndListsTutorial\ArraysAndListsTutorial\bin\Debug\netcoreapp3.1\ArraysAndListsTutorial.pdb
+C:\Users\shodg\source\repos\ArraysAndListsTutorial\ArraysAndListsTutorial\obj\Debug\netcoreapp3.1\ArraysAndListsTutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shodg\source\repos\ArraysAndListsTutorial\ArraysAndListsTutorial\obj\Debug\netcoreapp3.1\ArraysAndListsTutorial.AssemblyInfoInputs.cache
+C:\Users\shodg\source\repos\ArraysAndListsTutorial\ArraysAndListsTutorial\obj\Debug\netcoreapp3.1\ArraysAndListsTutorial.AssemblyInfo.cs
+C:\Users\shodg\source\repos\ArraysAndListsTutorial\ArraysAndListsTutorial\obj\Debug\netcoreapp3.1\ArraysAndListsTutorial.csproj.CoreCompileInputs.cache
+C:\Users\shodg\source\repos\ArraysAndListsTutorial\ArraysAndListsTutorial\obj\Debug\netcoreapp3.1\ArraysAndListsTutorial.dll
+C:\Users\shodg\source\repos\ArraysAndListsTutorial\ArraysAndListsTutorial\obj\Debug\netcoreapp3.1\ArraysAndListsTutorial.pdb
+C:\Users\shodg\source\repos\ArraysAndListsTutorial\ArraysAndListsTutorial\obj\Debug\netcoreapp3.1\ArraysAndListsTutorial.genruntimeconfig.cache
+C:\Users\shodg\source\repos\ArraysAndListsTutorial\ArraysAndListsTutorial\obj\Debug\netcoreapp3.1\ArraysAndListsTutorial.csproj.AssemblyReference.cache

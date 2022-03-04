@@ -39,11 +39,19 @@ namespace ConsoleAppSubmissionAssignment
                         Console.WriteLine("You guessed the Rams. That is the correct team!");
                         Console.ReadLine();
                         break;
+                    default:
+                        Console.WriteLine("You are wrong.");
+                        Console.WriteLine("Guess again?");
+                        nflTeam = Console.ReadLine();
+                        break;
 
                 }
             }
             while (!isGuessed);
+            Console.ReadLine();
 
+
+            
             //declares our data type and variable for our "while loop"
             int counter = 0;
             while(counter < 10)
