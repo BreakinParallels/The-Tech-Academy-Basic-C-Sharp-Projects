@@ -1,0 +1,14 @@
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\IterationTutorialExamples\IterationTutorialExamples\bin\Debug\netcoreapp3.1\IterationTutorialExamples.exe
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\IterationTutorialExamples\IterationTutorialExamples\bin\Debug\netcoreapp3.1\IterationTutorialExamples.deps.json
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\IterationTutorialExamples\IterationTutorialExamples\bin\Debug\netcoreapp3.1\IterationTutorialExamples.runtimeconfig.json
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\IterationTutorialExamples\IterationTutorialExamples\bin\Debug\netcoreapp3.1\IterationTutorialExamples.runtimeconfig.dev.json
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\IterationTutorialExamples\IterationTutorialExamples\bin\Debug\netcoreapp3.1\IterationTutorialExamples.dll
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\IterationTutorialExamples\IterationTutorialExamples\bin\Debug\netcoreapp3.1\IterationTutorialExamples.pdb
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\IterationTutorialExamples\IterationTutorialExamples\obj\Debug\netcoreapp3.1\IterationTutorialExamples.csproj.AssemblyReference.cache
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\IterationTutorialExamples\IterationTutorialExamples\obj\Debug\netcoreapp3.1\IterationTutorialExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\IterationTutorialExamples\IterationTutorialExamples\obj\Debug\netcoreapp3.1\IterationTutorialExamples.AssemblyInfoInputs.cache
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\IterationTutorialExamples\IterationTutorialExamples\obj\Debug\netcoreapp3.1\IterationTutorialExamples.AssemblyInfo.cs
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\IterationTutorialExamples\IterationTutorialExamples\obj\Debug\netcoreapp3.1\IterationTutorialExamples.csproj.CoreCompileInputs.cache
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\IterationTutorialExamples\IterationTutorialExamples\obj\Debug\netcoreapp3.1\IterationTutorialExamples.dll
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\IterationTutorialExamples\IterationTutorialExamples\obj\Debug\netcoreapp3.1\IterationTutorialExamples.pdb
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\IterationTutorialExamples\IterationTutorialExamples\obj\Debug\netcoreapp3.1\IterationTutorialExamples.genruntimeconfig.cache
