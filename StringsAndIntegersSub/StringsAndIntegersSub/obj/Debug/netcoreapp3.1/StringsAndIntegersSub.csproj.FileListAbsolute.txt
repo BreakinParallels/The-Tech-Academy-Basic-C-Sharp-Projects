@@ -1,0 +1,14 @@
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StringsAndIntegersSub\StringsAndIntegersSub\bin\Debug\netcoreapp3.1\StringsAndIntegersSub.exe
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StringsAndIntegersSub\StringsAndIntegersSub\bin\Debug\netcoreapp3.1\StringsAndIntegersSub.deps.json
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StringsAndIntegersSub\StringsAndIntegersSub\bin\Debug\netcoreapp3.1\StringsAndIntegersSub.runtimeconfig.json
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StringsAndIntegersSub\StringsAndIntegersSub\bin\Debug\netcoreapp3.1\StringsAndIntegersSub.runtimeconfig.dev.json
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StringsAndIntegersSub\StringsAndIntegersSub\bin\Debug\netcoreapp3.1\StringsAndIntegersSub.dll
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StringsAndIntegersSub\StringsAndIntegersSub\bin\Debug\netcoreapp3.1\StringsAndIntegersSub.pdb
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StringsAndIntegersSub\StringsAndIntegersSub\obj\Debug\netcoreapp3.1\StringsAndIntegersSub.csproj.AssemblyReference.cache
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StringsAndIntegersSub\StringsAndIntegersSub\obj\Debug\netcoreapp3.1\StringsAndIntegersSub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StringsAndIntegersSub\StringsAndIntegersSub\obj\Debug\netcoreapp3.1\StringsAndIntegersSub.AssemblyInfoInputs.cache
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StringsAndIntegersSub\StringsAndIntegersSub\obj\Debug\netcoreapp3.1\StringsAndIntegersSub.AssemblyInfo.cs
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StringsAndIntegersSub\StringsAndIntegersSub\obj\Debug\netcoreapp3.1\StringsAndIntegersSub.csproj.CoreCompileInputs.cache
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StringsAndIntegersSub\StringsAndIntegersSub\obj\Debug\netcoreapp3.1\StringsAndIntegersSub.dll
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StringsAndIntegersSub\StringsAndIntegersSub\obj\Debug\netcoreapp3.1\StringsAndIntegersSub.pdb
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StringsAndIntegersSub\StringsAndIntegersSub\obj\Debug\netcoreapp3.1\StringsAndIntegersSub.genruntimeconfig.cache
