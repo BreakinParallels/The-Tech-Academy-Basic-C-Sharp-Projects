@@ -1,0 +1,14 @@
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodSubAssignment\MethodSubAssignment\bin\Debug\netcoreapp3.1\MethodSubAssignment.exe
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodSubAssignment\MethodSubAssignment\bin\Debug\netcoreapp3.1\MethodSubAssignment.deps.json
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodSubAssignment\MethodSubAssignment\bin\Debug\netcoreapp3.1\MethodSubAssignment.runtimeconfig.json
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodSubAssignment\MethodSubAssignment\bin\Debug\netcoreapp3.1\MethodSubAssignment.runtimeconfig.dev.json
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodSubAssignment\MethodSubAssignment\bin\Debug\netcoreapp3.1\MethodSubAssignment.dll
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodSubAssignment\MethodSubAssignment\bin\Debug\netcoreapp3.1\MethodSubAssignment.pdb
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodSubAssignment\MethodSubAssignment\obj\Debug\netcoreapp3.1\MethodSubAssignment.csproj.AssemblyReference.cache
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodSubAssignment\MethodSubAssignment\obj\Debug\netcoreapp3.1\MethodSubAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodSubAssignment\MethodSubAssignment\obj\Debug\netcoreapp3.1\MethodSubAssignment.AssemblyInfoInputs.cache
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodSubAssignment\MethodSubAssignment\obj\Debug\netcoreapp3.1\MethodSubAssignment.AssemblyInfo.cs
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodSubAssignment\MethodSubAssignment\obj\Debug\netcoreapp3.1\MethodSubAssignment.csproj.CoreCompileInputs.cache
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodSubAssignment\MethodSubAssignment\obj\Debug\netcoreapp3.1\MethodSubAssignment.dll
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodSubAssignment\MethodSubAssignment\obj\Debug\netcoreapp3.1\MethodSubAssignment.pdb
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodSubAssignment\MethodSubAssignment\obj\Debug\netcoreapp3.1\MethodSubAssignment.genruntimeconfig.cache
