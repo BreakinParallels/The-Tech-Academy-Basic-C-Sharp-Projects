@@ -1,0 +1,14 @@
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DiffMethClassSub\DiffMethClassSub\obj\Debug\netcoreapp3.1\DiffMethClassSub.csproj.AssemblyReference.cache
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DiffMethClassSub\DiffMethClassSub\obj\Debug\netcoreapp3.1\DiffMethClassSub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DiffMethClassSub\DiffMethClassSub\obj\Debug\netcoreapp3.1\DiffMethClassSub.AssemblyInfoInputs.cache
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DiffMethClassSub\DiffMethClassSub\obj\Debug\netcoreapp3.1\DiffMethClassSub.AssemblyInfo.cs
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DiffMethClassSub\DiffMethClassSub\obj\Debug\netcoreapp3.1\DiffMethClassSub.csproj.CoreCompileInputs.cache
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DiffMethClassSub\DiffMethClassSub\bin\Debug\netcoreapp3.1\DiffMethClassSub.exe
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DiffMethClassSub\DiffMethClassSub\bin\Debug\netcoreapp3.1\DiffMethClassSub.deps.json
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DiffMethClassSub\DiffMethClassSub\bin\Debug\netcoreapp3.1\DiffMethClassSub.runtimeconfig.json
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DiffMethClassSub\DiffMethClassSub\bin\Debug\netcoreapp3.1\DiffMethClassSub.runtimeconfig.dev.json
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DiffMethClassSub\DiffMethClassSub\bin\Debug\netcoreapp3.1\DiffMethClassSub.dll
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DiffMethClassSub\DiffMethClassSub\bin\Debug\netcoreapp3.1\DiffMethClassSub.pdb
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DiffMethClassSub\DiffMethClassSub\obj\Debug\netcoreapp3.1\DiffMethClassSub.dll
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DiffMethClassSub\DiffMethClassSub\obj\Debug\netcoreapp3.1\DiffMethClassSub.pdb
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DiffMethClassSub\DiffMethClassSub\obj\Debug\netcoreapp3.1\DiffMethClassSub.genruntimeconfig.cache
