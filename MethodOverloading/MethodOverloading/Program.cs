@@ -16,11 +16,11 @@ namespace MethodOverloading
             Console.ReadLine();
             //asks user to input number to apply function to and converts input to a float
             Console.WriteLine("Please input a decimal to operate on: ");
-            float userNumFloat = float.Parse(Console.ReadLine());
-            //sets variable for function result applied to float/decimal number given by user
-            int newNumFloatInt = mathFunction.myOverload(userNumFloat);
+            decimal userNumDecimal = Decimal.Parse(Console.ReadLine());
+            //sets variable for function result applied to decimal number given by user
+            int newNumDecimalInt = mathFunction.myOverload(userNumDecimal);
             // returns message with result of function
-            Console.WriteLine("Your decimal multiplied by 5 and converted to an integer is: " + newNumFloatInt);
+            Console.WriteLine("Your decimal multiplied by 5 and converted to an integer is: " + newNumDecimalInt);
             Console.ReadLine();
             //asks user to input number to apply function to and converts a string entered by user to an integer
             Console.WriteLine("Please input a integer to operate on: ");
