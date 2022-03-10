@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace AbstractClassAssignment
 {
     //Create an abstract class called Person with two properties: string FirstName and string LastName.
-    public class Person
+    public abstract class Person
     {
         public string FirstName { get; set; }
         public string LastName { get; set; }

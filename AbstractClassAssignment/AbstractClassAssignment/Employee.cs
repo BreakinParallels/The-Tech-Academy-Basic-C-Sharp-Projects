@@ -10,5 +10,10 @@ namespace AbstractClassAssignment
     public class Employee : Person
     {
         public int id { get; set; }
+
+        public void SayName()
+        {
+            Console.WriteLine("Name: " + FirstName + " " + LastName);
+        }
     }
 }
