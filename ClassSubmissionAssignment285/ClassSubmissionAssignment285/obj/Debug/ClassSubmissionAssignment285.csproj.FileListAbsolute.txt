@@ -1,0 +1,7 @@
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ClassSubmissionAssignment285\ClassSubmissionAssignment285\bin\Debug\ClassSubmissionAssignment285.exe.config
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ClassSubmissionAssignment285\ClassSubmissionAssignment285\bin\Debug\ClassSubmissionAssignment285.exe
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ClassSubmissionAssignment285\ClassSubmissionAssignment285\bin\Debug\ClassSubmissionAssignment285.pdb
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ClassSubmissionAssignment285\ClassSubmissionAssignment285\obj\Debug\ClassSubmissionAssignment285.csproj.AssemblyReference.cache
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ClassSubmissionAssignment285\ClassSubmissionAssignment285\obj\Debug\ClassSubmissionAssignment285.csproj.CoreCompileInputs.cache
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ClassSubmissionAssignment285\ClassSubmissionAssignment285\obj\Debug\ClassSubmissionAssignment285.exe
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ClassSubmissionAssignment285\ClassSubmissionAssignment285\obj\Debug\ClassSubmissionAssignment285.pdb

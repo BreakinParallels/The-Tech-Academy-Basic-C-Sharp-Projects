@@ -8,6 +8,8 @@ namespace ClassSubmissionAssignment285
     {
         static void Main(string[] args)
         {
+            
+            
             //instantiate myMethod class
             myMethod newMethod = new myMethod();
 
@@ -16,9 +18,13 @@ namespace ClassSubmissionAssignment285
             int userNum = Convert.ToInt32(Console.ReadLine());
             newMethod.myMethodOp(userNum);
 
-            //static overload method with an output
-            int myNum = 1;
-            Console.WriteLine("Your number plus my number is: " + myMethod.myMethodOp(userNum, myNum));
+            //call on method that has out parameters, display them in messages
+            int num1 = 0, num2 = 0;
+            newMethod.myMethodOp(out num1, out num2);
+            Console.WriteLine("num1 is now " + num1);
+            Console.WriteLine("num2 is now " + num2);
+            myStatic.myStaticMethod();
+            Console.ReadLine();
         }
     }
 }
