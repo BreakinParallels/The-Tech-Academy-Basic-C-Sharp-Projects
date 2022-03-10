@@ -1,0 +1,7 @@
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Methods_Objects_Submission\Methods_Objects_Submission\bin\Debug\Methods_Objects_Submission.exe.config
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Methods_Objects_Submission\Methods_Objects_Submission\bin\Debug\Methods_Objects_Submission.exe
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Methods_Objects_Submission\Methods_Objects_Submission\bin\Debug\Methods_Objects_Submission.pdb
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Methods_Objects_Submission\Methods_Objects_Submission\obj\Debug\Methods_Objects_Submission.csproj.AssemblyReference.cache
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Methods_Objects_Submission\Methods_Objects_Submission\obj\Debug\Methods_Objects_Submission.csproj.CoreCompileInputs.cache
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Methods_Objects_Submission\Methods_Objects_Submission\obj\Debug\Methods_Objects_Submission.exe
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Methods_Objects_Submission\Methods_Objects_Submission\obj\Debug\Methods_Objects_Submission.pdb

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{494B4142-F11C-4344-ABA1-621C4AC70A73}</ProjectGuid>
+    <ProjectGuid>{31500FFF-9665-4964-84FE-485661B0CE25}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ClassSubmissionAssignment285</RootNamespace>
-    <AssemblyName>ClassSubmissionAssignment285</AssemblyName>
+    <RootNamespace>Methods_Objects_Submission</RootNamespace>
+    <AssemblyName>Methods_Objects_Submission</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="myMethod.cs" />
+    <Compile Include="Employee.cs" />
+    <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

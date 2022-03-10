@@ -29,7 +29,7 @@ namespace TwentyOneGame
                 }
             }
         }
-        public Deck()
+        
         public List<Card> Cards { get; set; }
 
         public void Shuffle(int times = 1)
