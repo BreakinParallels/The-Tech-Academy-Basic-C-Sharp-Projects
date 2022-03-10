@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AbstractClassAssignment
+namespace PolymorphismAssignment
 {
     //Create an abstract class called Person with two properties: string FirstName and string LastName.
     public abstract class Person
