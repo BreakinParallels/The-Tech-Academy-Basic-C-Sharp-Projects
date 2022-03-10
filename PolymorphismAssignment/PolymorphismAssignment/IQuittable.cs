@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace PolymorphismAssignment
 {
-    class IQuittable
-    {
-    }
+        interface IQuittable
+        {
+            void Quit();
+        }
+    
 }

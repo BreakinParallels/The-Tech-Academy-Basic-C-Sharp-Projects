@@ -6,7 +6,14 @@ using System.Threading.Tasks;
 
 namespace PolymorphismAssignment
 {
-    class Employee
+    //Create another class called Employee and have it inherit from the Person class
+    public class Employee : Person, IQuittable
     {
+        public int id { get; set; }
+
+        public void SayName()
+        {
+            Console.WriteLine("Name: " + FirstName + " " + LastName);
+        }
     }
 }
