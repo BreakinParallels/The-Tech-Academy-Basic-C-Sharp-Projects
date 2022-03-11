@@ -14,12 +14,12 @@ namespace PolymorphismAssignment
 
         public void Quit()
         {
-            throw new NotImplementedException();
+            Console.WriteLine("Employee is quitting.");
         }
 
-        public void SayName()
-        {
-            Console.WriteLine("Name: " + FirstName + " " + LastName);
-        }
+        //public void SayName()
+        //{
+        //    Console.WriteLine("Name: " + FirstName + " " + LastName);
+        //}
     }
 }

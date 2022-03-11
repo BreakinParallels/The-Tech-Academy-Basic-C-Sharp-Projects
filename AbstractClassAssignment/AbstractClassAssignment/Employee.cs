@@ -10,8 +10,8 @@ namespace AbstractClassAssignment
     public class Employee : Person
     {
         public int id { get; set; }
-
-        public void SayName()
+        //overriding SayName method from Person class
+        public override void SayName()
         {
             Console.WriteLine("Name: " + FirstName + " " + LastName);
         }
