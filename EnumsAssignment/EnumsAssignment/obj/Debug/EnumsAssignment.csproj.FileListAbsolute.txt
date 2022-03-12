@@ -1,0 +1,7 @@
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\EnumsAssignment\EnumsAssignment\bin\Debug\EnumsAssignment.exe.config
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\EnumsAssignment\EnumsAssignment\bin\Debug\EnumsAssignment.exe
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\EnumsAssignment\EnumsAssignment\bin\Debug\EnumsAssignment.pdb
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\EnumsAssignment\EnumsAssignment\obj\Debug\EnumsAssignment.csproj.AssemblyReference.cache
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\EnumsAssignment\EnumsAssignment\obj\Debug\EnumsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\EnumsAssignment\EnumsAssignment\obj\Debug\EnumsAssignment.exe
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\EnumsAssignment\EnumsAssignment\obj\Debug\EnumsAssignment.pdb
