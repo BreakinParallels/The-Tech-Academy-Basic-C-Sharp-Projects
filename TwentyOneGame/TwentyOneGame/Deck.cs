@@ -39,7 +39,7 @@ namespace TwentyOneGame
                     TempList.Add(Cards[randomIndex]);
                     Cards.RemoveAt(randomIndex);
                 }
-                Cards = TempList;
+                this.Cards = TempList;
             }
         }
     }
