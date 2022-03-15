@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using System.IO;
 
 namespace TwentyOneGame
 {
@@ -11,9 +12,7 @@ namespace TwentyOneGame
 
         public override string ToString()
         {
-            {
-                return string.Format("{0} of {1}", Suit);
-            }
+            return string.Format("{0} of {1}", Face, Suit);
         }
     }
     public enum Suit
