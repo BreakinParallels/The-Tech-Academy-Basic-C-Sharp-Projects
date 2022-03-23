@@ -37,7 +37,7 @@ namespace Casino._21Game
                 }
                 if (bet < 0)
                 {
-                    throw new NotImplementedException("Security! Kick this person out!");
+                    throw new FraudException("Security! Kick this person out!");
                 }
                 bool successfullyBet = player.Bet(bet);
                 if (!successfullyBet)

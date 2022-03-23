@@ -1,0 +1,76 @@
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MVC Tutorial\MVC Tutorial\bin\MVC Tutorial.dll.config
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MVC Tutorial\MVC Tutorial\bin\MVC Tutorial.dll
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MVC Tutorial\MVC Tutorial\bin\MVC Tutorial.pdb
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MVC Tutorial\MVC Tutorial\bin\roslyn\csc.exe
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MVC Tutorial\MVC Tutorial\bin\roslyn\csc.exe.config
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MVC Tutorial\MVC Tutorial\bin\roslyn\csc.rsp
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MVC Tutorial\MVC Tutorial\bin\roslyn\csi.exe
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MVC Tutorial\MVC Tutorial\bin\roslyn\csi.exe.config
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MVC Tutorial\MVC Tutorial\bin\roslyn\csi.rsp
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MVC Tutorial\MVC Tutorial\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MVC Tutorial\MVC Tutorial\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MVC Tutorial\MVC Tutorial\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MVC Tutorial\MVC Tutorial\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MVC Tutorial\MVC Tutorial\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MVC Tutorial\MVC Tutorial\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MVC Tutorial\MVC Tutorial\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MVC Tutorial\MVC Tutorial\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MVC Tutorial\MVC Tutorial\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MVC Tutorial\MVC Tutorial\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MVC Tutorial\MVC Tutorial\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MVC Tutorial\MVC Tutorial\bin\roslyn\System.AppContext.dll
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MVC Tutorial\MVC Tutorial\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MVC Tutorial\MVC Tutorial\bin\roslyn\System.Console.dll
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MVC Tutorial\MVC Tutorial\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MVC Tutorial\MVC Tutorial\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MVC Tutorial\MVC Tutorial\bin\roslyn\System.IO.Compression.dll
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MVC Tutorial\MVC Tutorial\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MVC Tutorial\MVC Tutorial\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MVC Tutorial\MVC Tutorial\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MVC Tutorial\MVC Tutorial\bin\roslyn\System.IO.Pipes.dll
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MVC Tutorial\MVC Tutorial\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MVC Tutorial\MVC Tutorial\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MVC Tutorial\MVC Tutorial\bin\roslyn\System.Security.Claims.dll
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MVC Tutorial\MVC Tutorial\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MVC Tutorial\MVC Tutorial\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MVC Tutorial\MVC Tutorial\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MVC Tutorial\MVC Tutorial\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MVC Tutorial\MVC Tutorial\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MVC Tutorial\MVC Tutorial\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MVC Tutorial\MVC Tutorial\bin\roslyn\System.ValueTuple.dll
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MVC Tutorial\MVC Tutorial\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MVC Tutorial\MVC Tutorial\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MVC Tutorial\MVC Tutorial\bin\roslyn\System.Xml.XPath.dll
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MVC Tutorial\MVC Tutorial\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MVC Tutorial\MVC Tutorial\bin\roslyn\vbc.exe
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MVC Tutorial\MVC Tutorial\bin\roslyn\vbc.exe.config
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MVC Tutorial\MVC Tutorial\bin\roslyn\vbc.rsp
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MVC Tutorial\MVC Tutorial\bin\roslyn\VBCSCompiler.exe
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MVC Tutorial\MVC Tutorial\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MVC Tutorial\MVC Tutorial\bin\Antlr3.Runtime.dll
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MVC Tutorial\MVC Tutorial\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MVC Tutorial\MVC Tutorial\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MVC Tutorial\MVC Tutorial\bin\Newtonsoft.Json.dll
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MVC Tutorial\MVC Tutorial\bin\System.Web.Helpers.dll
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MVC Tutorial\MVC Tutorial\bin\System.Web.Mvc.dll
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MVC Tutorial\MVC Tutorial\bin\System.Web.Optimization.dll
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MVC Tutorial\MVC Tutorial\bin\System.Web.Razor.dll
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MVC Tutorial\MVC Tutorial\bin\System.Web.WebPages.Deployment.dll
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MVC Tutorial\MVC Tutorial\bin\System.Web.WebPages.dll
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MVC Tutorial\MVC Tutorial\bin\System.Web.WebPages.Razor.dll
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MVC Tutorial\MVC Tutorial\bin\WebGrease.dll
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MVC Tutorial\MVC Tutorial\bin\System.Web.Helpers.xml
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MVC Tutorial\MVC Tutorial\bin\System.Web.Mvc.xml
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MVC Tutorial\MVC Tutorial\bin\System.Web.Optimization.xml
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MVC Tutorial\MVC Tutorial\bin\System.Web.Razor.xml
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MVC Tutorial\MVC Tutorial\bin\System.Web.WebPages.xml
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MVC Tutorial\MVC Tutorial\bin\System.Web.WebPages.Deployment.xml
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MVC Tutorial\MVC Tutorial\bin\System.Web.WebPages.Razor.xml
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MVC Tutorial\MVC Tutorial\bin\Newtonsoft.Json.xml
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MVC Tutorial\MVC Tutorial\bin\Antlr3.Runtime.pdb
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MVC Tutorial\MVC Tutorial\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MVC Tutorial\MVC Tutorial\obj\Debug\MVC Tutorial.csprojAssemblyReference.cache
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MVC Tutorial\MVC Tutorial\obj\Debug\MVC Tutorial.csproj.CoreCompileInputs.cache
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MVC Tutorial\MVC Tutorial\obj\Debug\MVC Tutorial.csproj.CopyComplete
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MVC Tutorial\MVC Tutorial\obj\Debug\MVC Tutorial.dll
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MVC Tutorial\MVC Tutorial\obj\Debug\MVC Tutorial.pdb

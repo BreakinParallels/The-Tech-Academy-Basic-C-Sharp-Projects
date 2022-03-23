@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 using System.IO;
 using Casino;
 using Casino._21Game;
-using TwentyOne;
+using TwentyOneGame;
 
 
 
-namespace TwentyOne
+namespace TwentyOneGame
 {
     class Program
     {
