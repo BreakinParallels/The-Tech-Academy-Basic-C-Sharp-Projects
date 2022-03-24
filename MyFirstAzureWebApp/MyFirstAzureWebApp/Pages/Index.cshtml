@@ -1,0 +1,41 @@
+﻿
+
+
+@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+
+    
+    var myMessage = "Hello all";
+    <p>My message is: @myMessage</p>
+
+
+}
+
+
+
+
+<div class="text-center">
+    <h2 class="display-4">Shannon's Web Application with Azure</h2>
+</div>
+
+<html>
+<body>
+    <!-- Single statement block -->
+    @{ var myMessage2 = "Hello World"; }
+
+    <!-- Inline expression or variable -->
+    <p>All I want to say is: @myMessage2</p>
+
+    <!-- Multi-statement block -->
+    @{
+        var greeting = "Welcome to our site!";
+        var utcDate = DateTime.Now;
+        var greetingMessage = greeting + " Here in Jacksonville, Florida it is: " + utcDate;
+    }
+
+    <p>The greeting is: @greetingMessage</p>
+</body>
+</html>
+
