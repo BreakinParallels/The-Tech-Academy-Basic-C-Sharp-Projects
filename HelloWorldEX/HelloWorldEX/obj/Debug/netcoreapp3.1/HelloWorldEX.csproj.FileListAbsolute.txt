@@ -1,0 +1,14 @@
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\HelloWorldEX\HelloWorldEX\bin\Debug\netcoreapp3.1\HelloWorldEX.exe
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\HelloWorldEX\HelloWorldEX\bin\Debug\netcoreapp3.1\HelloWorldEX.deps.json
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\HelloWorldEX\HelloWorldEX\bin\Debug\netcoreapp3.1\HelloWorldEX.runtimeconfig.json
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\HelloWorldEX\HelloWorldEX\bin\Debug\netcoreapp3.1\HelloWorldEX.runtimeconfig.dev.json
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\HelloWorldEX\HelloWorldEX\bin\Debug\netcoreapp3.1\HelloWorldEX.dll
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\HelloWorldEX\HelloWorldEX\bin\Debug\netcoreapp3.1\HelloWorldEX.pdb
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\HelloWorldEX\HelloWorldEX\obj\Debug\netcoreapp3.1\HelloWorldEX.csproj.AssemblyReference.cache
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\HelloWorldEX\HelloWorldEX\obj\Debug\netcoreapp3.1\HelloWorldEX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\HelloWorldEX\HelloWorldEX\obj\Debug\netcoreapp3.1\HelloWorldEX.AssemblyInfoInputs.cache
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\HelloWorldEX\HelloWorldEX\obj\Debug\netcoreapp3.1\HelloWorldEX.AssemblyInfo.cs
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\HelloWorldEX\HelloWorldEX\obj\Debug\netcoreapp3.1\HelloWorldEX.csproj.CoreCompileInputs.cache
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\HelloWorldEX\HelloWorldEX\obj\Debug\netcoreapp3.1\HelloWorldEX.dll
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\HelloWorldEX\HelloWorldEX\obj\Debug\netcoreapp3.1\HelloWorldEX.pdb
+C:\Users\shodg\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\HelloWorldEX\HelloWorldEX\obj\Debug\netcoreapp3.1\HelloWorldEX.genruntimeconfig.cache
